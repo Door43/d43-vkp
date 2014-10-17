@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vkp:home|Door43 (vkp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vkp|d43-vkp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vkp/archive/master.zip|d43-vkp.zip]]
+
+**Recent Changes**
+{{changes>ns = vkp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vkp|Ethnologue data]]
+
